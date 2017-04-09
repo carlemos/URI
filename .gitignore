@@ -5,4 +5,4 @@
 .DS_Store
 
 # Output files
-output_[0-9]+.txt
+output_*.txt
