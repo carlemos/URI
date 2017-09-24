@@ -1,0 +1,4 @@
+cin >> x >> type;
+counter[type] += x;
+
+counter should be a data compact data struct that allows it.
