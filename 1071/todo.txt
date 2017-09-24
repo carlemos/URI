@@ -1,0 +1,5 @@
+find a simplification
+
+there are 2**3 possibilities, analyze them all
+
+(beg, end)(even, odd)(positive, negative)
