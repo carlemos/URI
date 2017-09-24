@@ -1,0 +1,2 @@
+call count_if with input iterator
+interval test could be done with one test by transforming to unsigned
