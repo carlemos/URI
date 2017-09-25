@@ -14,6 +14,9 @@ int main(){
     y += 1;
 
   int n = (x + y)*(y - x + 2)/4 - x - y;
+  
+  if(x == y)
+    n = 0;
 
   std::cout << n << std::endl;
 }
