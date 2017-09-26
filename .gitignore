@@ -6,3 +6,6 @@
 
 # Output files
 output_*.txt
+
+# vim swp
+.*.swp
