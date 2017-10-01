@@ -1,0 +1,4 @@
+could it be done with a binary search?
+given fy(x) = floor(x*(1+y/100)) how to calculate fy^n (x) ?
+
+the adition could be avoided in the loop.
